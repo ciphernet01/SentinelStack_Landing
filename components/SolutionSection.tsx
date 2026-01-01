@@ -168,7 +168,7 @@ const SolutionSection: React.FC = () => {
             
              {/* Floating Label */}
               <div className="absolute bottom-6 right-6 bg-black/80 backdrop-blur border border-neon/30 px-4 py-2 text-xs font-mono text-neon pointer-events-none">
-                > STATUS: 22 VULNERABILITIES CONFIRMED
+                 STATUS: 22 VULNERABILITIES CONFIRMED
               </div>
           </div>
         </div>
