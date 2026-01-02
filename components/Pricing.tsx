@@ -73,7 +73,7 @@ const Pricing: React.FC = () => {
                 <h3 className="text-xl font-bold text-slate-300 mb-4 font-display uppercase tracking-widest">Security Snapshot™</h3>
                 <div className="flex flex-col items-center justify-center gap-0">
                   <span className="text-6xl font-black text-white font-display tracking-tighter">₹15k</span>
-                  <span className="text-xl text-slate-400 font-display tracking-wide uppercase mt-1">or $150 USD</span>
+                  <span className="text-xl text-slate-400 font-display tracking-wide uppercase mt-1">or $199 USD</span>
                 </div>
                 <p className="text-sm text-neon mt-4 font-mono uppercase">One-time assessment fee</p>
               </div>
